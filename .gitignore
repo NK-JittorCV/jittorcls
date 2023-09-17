@@ -1,0 +1,21 @@
+# data/
+*.jpg
+*.png
+**/__pycache__/
+data
+# checkpoint/
+*.pth
+results/
+res_data/
+*.zip
+data/ILSVRC2012_img_val/
+data/ILSVRC2012_img_val_cls/
+*.tar
+*.JPEG
+data/train/
+data/val/
+.vscode
+Log.log
+data/ImageNet/train
+data/ImageNet/val
+!jvcore/data
